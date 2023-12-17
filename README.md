@@ -1,1 +1,2 @@
-# spring-boot-properties
+# spring boot properties
+Spring Boot study project
